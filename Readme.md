@@ -1,4 +1,4 @@
-# Rapport sur les Problèmes Rencontrés lors du Projet GTSRB
+# Rapport sur le Projet GTSRB
 
 ## Introduction
 
